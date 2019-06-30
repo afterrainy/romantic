@@ -303,7 +303,7 @@
                 p3 = new Point(b[4], b[5]);
                 r = b[6];
                 l = b[7];
-                c = b[8]
+                c = b[8];
                 s.addBranch(new Branch(s, p1, p2, p3, r, l, c)); 
             }
         },
